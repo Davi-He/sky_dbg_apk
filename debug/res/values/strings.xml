@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ReadWrite</string>
+    <string name="read">get</string>
+    <string name="write">set</string>
+    <string name="result_txt">result</string>
+    <string name="send">send</string>
+    <string name="showhelplink">hi, http://172.20.191.152</string>
+    <string name="testbtn">testbtn</string>
+
+</resources>
